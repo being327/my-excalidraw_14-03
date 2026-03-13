@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>My Drawings</title>
+</head>
+<body>
+
+<h1>My Drawings</h1>
+
+<button onclick="createDrawing()">New Drawing</button>
+
+<ul id="list"></ul>
+
+<script src="script.js"></script>
+
+</body>
+</html>
